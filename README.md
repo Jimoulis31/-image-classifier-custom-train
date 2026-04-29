@@ -1,5 +1,3 @@
-```bash
-cat > README.md << 'EOF'
 # Custom Image Classifier
 
 A modern AI-powered image classification application built with Python, PyTorch, and Tkinter.
@@ -94,5 +92,3 @@ python Image_Classifier_Custom_Training.py
 ## 👨‍💻 Author
 
 Created by Jim
-EOF
-```
